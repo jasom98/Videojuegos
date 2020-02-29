@@ -1,0 +1,11 @@
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\bin\Debug\netcoreapp3.1\JuegoJason.exe
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\bin\Debug\netcoreapp3.1\JuegoJason.deps.json
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\bin\Debug\netcoreapp3.1\JuegoJason.runtimeconfig.json
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\bin\Debug\netcoreapp3.1\JuegoJason.runtimeconfig.dev.json
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\bin\Debug\netcoreapp3.1\JuegoJason.dll
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\bin\Debug\netcoreapp3.1\JuegoJason.pdb
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\obj\Debug\netcoreapp3.1\JuegoJason.csprojAssemblyReference.cache
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\obj\Debug\netcoreapp3.1\JuegoJason.AssemblyInfoInputs.cache
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\obj\Debug\netcoreapp3.1\JuegoJason.AssemblyInfo.cs
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\obj\Debug\netcoreapp3.1\JuegoJason.dll
+C:\Users\jasom\Downloads\JuegoJason\JuegoJason\obj\Debug\netcoreapp3.1\JuegoJason.pdb
